@@ -48,7 +48,9 @@ project "SFML"
 	{
         "SFML_STATIC",
 		"WIN32",
-        "_WINDOWS"
+        "_WINDOWS",
+        "_WINSOCK_DEPRECATED_NO_WARNINGS",
+        "_CRT_SECURE_NO_WARNINGS"
 	}
 
 	filter "system:windows"
