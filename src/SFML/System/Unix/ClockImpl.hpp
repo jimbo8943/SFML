@@ -21,7 +21,7 @@
 // 3. This notice may not be removed or altered from any source distribution.
 //
 ////////////////////////////////////////////////////////////
-
+/*
 #ifndef SFML_CLOCKIMPLUNIX_HPP
 #define SFML_CLOCKIMPLUNIX_HPP
 
@@ -59,3 +59,4 @@ public:
 
 
 #endif // SFML_CLOCKIMPLUNIX_HPP
+*/

@@ -21,7 +21,7 @@
 // 3. This notice may not be removed or altered from any source distribution.
 //
 ////////////////////////////////////////////////////////////
-
+/*
 #ifndef SFML_MUTEXIMPL_HPP
 #define SFML_MUTEXIMPL_HPP
 
@@ -81,3 +81,4 @@ private:
 
 
 #endif // SFML_MUTEXIMPL_HPP
+*/

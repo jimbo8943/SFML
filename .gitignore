@@ -38,3 +38,13 @@ build/
 .cache/
 .vscode/
 .idea/
+
+.vs/
+bin/
+bin-int/
+*.user
+*.sln
+*.vcxproj
+*.filters
+compile_commands.json
+.cache/

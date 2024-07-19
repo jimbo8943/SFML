@@ -25,6 +25,7 @@
 ////////////////////////////////////////////////////////////
 // Headers
 ////////////////////////////////////////////////////////////
+/*
 #include <SFML/System/Unix/ThreadLocalImpl.hpp>
 
 
@@ -63,3 +64,4 @@ void* ThreadLocalImpl::getValue() const
 } // namespace priv
 
 } // namespace sf
+*/

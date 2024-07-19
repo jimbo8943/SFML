@@ -26,6 +26,7 @@
 ////////////////////////////////////////////////////////////
 // Headers
 ////////////////////////////////////////////////////////////
+/*
 #include <SFML/System/Android/ResourceStream.hpp>
 #include <SFML/System/Android/Activity.hpp>
 #include <SFML/System/Lock.hpp>
@@ -114,3 +115,4 @@ Int64 ResourceStream::getSize()
 
 } // namespace priv
 } // namespace sf
+*/

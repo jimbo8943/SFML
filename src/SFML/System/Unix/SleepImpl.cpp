@@ -25,6 +25,7 @@
 ////////////////////////////////////////////////////////////
 // Headers
 ////////////////////////////////////////////////////////////
+/*
 #include <SFML/System/Unix/SleepImpl.hpp>
 #include <errno.h>
 #include <time.h>
@@ -57,3 +58,4 @@ void sleepImpl(Time time)
 } // namespace priv
 
 } // namespace sf
+*/

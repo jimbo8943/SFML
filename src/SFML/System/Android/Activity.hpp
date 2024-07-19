@@ -21,7 +21,7 @@
 // 3. This notice may not be removed or altered from any source distribution.
 //
 ////////////////////////////////////////////////////////////
-
+/*
 #ifndef SFML_ACTIVITY_HPP
 #define SFML_ACTIVITY_HPP
 
@@ -100,3 +100,4 @@ SFML_SYSTEM_API ActivityStates& getActivity();
 
 
 #endif // SFML_ACTIVITY_HPP
+*/

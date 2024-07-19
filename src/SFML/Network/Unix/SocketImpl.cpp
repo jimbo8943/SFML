@@ -25,6 +25,7 @@
 ////////////////////////////////////////////////////////////
 // Headers
 ////////////////////////////////////////////////////////////
+/*
 #include <SFML/Network/Unix/SocketImpl.hpp>
 #include <SFML/System/Err.hpp>
 #include <errno.h>
@@ -110,3 +111,4 @@ Socket::Status SocketImpl::getErrorStatus()
 } // namespace priv
 
 } // namespace sf
+*/

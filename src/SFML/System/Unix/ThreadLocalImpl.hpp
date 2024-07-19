@@ -21,13 +21,14 @@
 // 3. This notice may not be removed or altered from any source distribution.
 //
 ////////////////////////////////////////////////////////////
-
+/*
 #ifndef SFML_THREADLOCALIMPL_HPP
 #define SFML_THREADLOCALIMPL_HPP
 
 ////////////////////////////////////////////////////////////
 // Headers
 ////////////////////////////////////////////////////////////
+
 #include <SFML/System/NonCopyable.hpp>
 #include <pthread.h>
 
@@ -85,3 +86,4 @@ private:
 
 
 #endif // SFML_THREADLOCALIMPL_HPP
+*/

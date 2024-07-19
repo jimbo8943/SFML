@@ -21,7 +21,7 @@
 // 3. This notice may not be removed or altered from any source distribution.
 //
 ////////////////////////////////////////////////////////////
-
+/*
 #ifndef SFML_SOCKETIMPL_HPP
 #define SFML_SOCKETIMPL_HPP
 
@@ -108,3 +108,5 @@ public:
 
 
 #endif // SFML_SOCKETIMPL_HPP
+
+*/

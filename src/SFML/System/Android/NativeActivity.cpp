@@ -25,6 +25,7 @@
 ////////////////////////////////////////////////////////////
 // Headers
 ////////////////////////////////////////////////////////////
+/*
 #include <SFML/System/NativeActivity.hpp>
 #include <SFML/System/Android/Activity.hpp>
 
@@ -37,3 +38,4 @@ ANativeActivity* getNativeActivity()
 }
 
 } // namespace sf
+*/

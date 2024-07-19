@@ -22,6 +22,8 @@
 //
 ////////////////////////////////////////////////////////////
 
+/*
+
 #include <SFML/Config.hpp>
 #include <android/native_activity.h>
 #include <android/log.h>
@@ -204,3 +206,5 @@ void ANativeActivity_onCreate(ANativeActivity* activity, void* savedState, size_
 
     ANativeActivity_onCreate(activity, savedState, savedStateSize);
 }
+
+*/

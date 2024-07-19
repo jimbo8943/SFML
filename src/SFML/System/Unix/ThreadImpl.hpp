@@ -21,7 +21,7 @@
 // 3. This notice may not be removed or altered from any source distribution.
 //
 ////////////////////////////////////////////////////////////
-
+/*
 #ifndef SFML_THREADIMPL_HPP
 #define SFML_THREADIMPL_HPP
 
@@ -91,3 +91,4 @@ private:
 
 
 #endif // SFML_THREADIMPL_HPP
+*/

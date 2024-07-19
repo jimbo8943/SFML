@@ -21,7 +21,7 @@
 // 3. This notice may not be removed or altered from any source distribution.
 //
 ////////////////////////////////////////////////////////////
-
+/*
 #ifndef SFML_SLEEPIMPLUNIX_HPP
 #define SFML_SLEEPIMPLUNIX_HPP
 
@@ -50,3 +50,4 @@ void sleepImpl(Time time);
 
 
 #endif // SFML_SLEEPIMPLUNIX_HPP
+*/

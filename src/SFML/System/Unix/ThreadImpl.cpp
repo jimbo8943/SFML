@@ -25,6 +25,7 @@
 ////////////////////////////////////////////////////////////
 // Headers
 ////////////////////////////////////////////////////////////
+/*
 #include <SFML/System/Unix/ThreadImpl.hpp>
 #include <SFML/System/Thread.hpp>
 #include <iostream>
@@ -92,3 +93,4 @@ void* ThreadImpl::entryPoint(void* userData)
 } // namespace priv
 
 } // namespace sf
+*/

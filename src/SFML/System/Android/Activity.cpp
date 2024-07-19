@@ -27,6 +27,7 @@
 ////////////////////////////////////////////////////////////
 // Headers
 ////////////////////////////////////////////////////////////
+/*
 #include <SFML/System/Android/Activity.hpp>
 #include <android/log.h>
 #include <cassert>
@@ -78,3 +79,4 @@ ActivityStates& getActivity()
 
 }
 }
+*/
