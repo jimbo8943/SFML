@@ -20,10 +20,7 @@ project "SFML"
 		"include",
         "src",
 
-        "extlibs/headers/AL",
-        "extlibs/headers",
         "extlibs/headers/glad/include",
-        "extlibs/headers/minimp3",
         "extlibs/headers/stb_image",
         "extlibs/headers/vulkan",
         "extlibs/headers/freetype2"
@@ -36,19 +33,13 @@ project "SFML"
 
     links
     {
-        "flac",
         "freetype",
-        "ogg",
-        "vorbis",
-        "vorbisfile",
         "winmm"
     }
 
 	defines
 	{
         "SFML_STATIC",
-		"WIN32",
-        "_WINDOWS",
         "_WINSOCK_DEPRECATED_NO_WARNINGS",
         "_CRT_SECURE_NO_WARNINGS"
 	}
